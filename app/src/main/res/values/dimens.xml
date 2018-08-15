@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height_padding">16dp</dimen>
+    <dimen name="button_width_padding">32dp</dimen>
+    <dimen name="noti_text_size">24sp</dimen>
+    <dimen name="noti_text_margin_buttom">24dp</dimen>
+</resources>
